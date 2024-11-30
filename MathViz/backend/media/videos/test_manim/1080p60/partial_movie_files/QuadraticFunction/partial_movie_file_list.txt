@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Github/MathViz/backend/media/videos/test_manim/1080p60/partial_movie_files/QuadraticFunction/3529212410_3868691092_223132457.mp4'
+file 'file:D:/Github/MathViz/backend/media/videos/test_manim/1080p60/partial_movie_files/QuadraticFunction/3040924799_1704852926_3681993148.mp4'
+file 'file:D:/Github/MathViz/backend/media/videos/test_manim/1080p60/partial_movie_files/QuadraticFunction/3040924799_326468854_3370108087.mp4'
+file 'file:D:/Github/MathViz/backend/media/videos/test_manim/1080p60/partial_movie_files/QuadraticFunction/3040924799_1651495551_288678621.mp4'
+file 'file:D:/Github/MathViz/backend/media/videos/test_manim/1080p60/partial_movie_files/QuadraticFunction/3040924799_678998087_2600544287.mp4'
+file 'file:D:/Github/MathViz/backend/media/videos/test_manim/1080p60/partial_movie_files/QuadraticFunction/3040924799_1141282389_4027834728.mp4'
